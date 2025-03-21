@@ -202,10 +202,10 @@ h2 {
   width: 100%;
 }
 .english {
-  width: 75%;
+  width: 50%;
 }
 .french {
-  width: 50%;
+  width: 10%;
 }
 .skill {
   background-color: var(--accent-color);
